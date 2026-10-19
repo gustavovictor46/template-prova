@@ -8,6 +8,10 @@ import {
     SquarePen,
     Trash2,
 } from 'lucide-react';
+<<<<<<< HEAD
+=======
+
+>>>>>>> aa1a9a8fd9578016b5805d42fa1ed3532bad9ac6
 export const examples = [
     {
         id: 1,
